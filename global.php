@@ -12,6 +12,7 @@ define("PASS", 'teste123');
 
 define("DS", DIRECTORY_SEPARATOR); //separador de diretorio
 define("DIR_APP", __DIR__); //raiz projeto
+define("DIR_PROJECT", 'restPHP');
 
 if(file_exists('autoload.php')){
     include 'autoload.php';
