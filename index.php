@@ -1,7 +1,7 @@
 <?php
 
 use Util\Rotas;
-use Validator\RequestValidator;  //namespace
+use Validator\RequestValidator;  //Namespace
 
 include 'global.php';
 
